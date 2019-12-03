@@ -1,0 +1,12 @@
+body {
+  width: 100vw;
+  /* overflow: hidden; */
+}
+.App {
+  text-align: center;
+}
+.monster-font {
+  font-family: "Bigelow Rules", cursive;
+  font-size: 8rem;
+  color: lightblue;
+}

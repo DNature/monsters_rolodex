@@ -1,0 +1,17 @@
+.search {
+  -webkit-appearance: none;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  padding: 10px;
+  width: 200px;
+  line-height: 30px;
+  margin: 30px;
+  box-shadow: 0 0 10px #ddd;
+  background: #d0f4fd;
+}
+
+.search:focus {
+  background: #f4f4f4;
+  transition: 0.4s ease-in-out;
+}
